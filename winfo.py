@@ -42,7 +42,6 @@ parser = argparse.ArgumentParser(description="WINFO Active Information Gathering
 parser.add_argument('-a', '--all' , action='store' , dest='all' , help='Performs all scans in the program')
 parser.add_argument('-w', '--whois' , action='store' , dest='whois' , help='Makes a whois query on the target site')
 parser.add_argument('-b', '--banner' , dest='banner' , help='Captures the target site banner request')
-parser.add_argument('-t', '--traceroute' , dest='traceroute' , help='Detects the tracert path in targer IP/Domain')
 parser.add_argument('-s', '--subdomain' , dest='subdomain' , help='Detects target subdomains')
 parser.add_argument('-d', '--dnslookup' , dest='dnslookup' , help='Performs dns query')
 parser.add_argument('-p', '--portscan' , dest='portscan' , help='Scans the ports of the target system')
