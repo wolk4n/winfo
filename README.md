@@ -34,4 +34,4 @@ Aktif keşif, hedef hakkında sisteme özgü bilgileri toplamak için doğrudan 
 
 <img height="300" width="300" src="https://github.com/wolk4n/winfo/blob/main/img/whois.png">
 
-<img height="300" width="300" src="https://github.com/wolk4n/winfo/blob/main/img/subs.png">
+<img src="https://github.com/wolk4n/winfo/blob/main/img/subs.png">
