@@ -30,7 +30,7 @@ Aktif keşif, hedef hakkında sisteme özgü bilgileri toplamak için doğrudan 
 `python3 winfo.py`
 
 ## Aracın içinden görüntüler
-<img height="150" width="500" src="https://github.com/wolk4n/winfo/blob/main/img/main.png">
+<img height="250" width="600" src="https://github.com/wolk4n/winfo/blob/main/img/main.png">
 
 <img height="300" width="300" src="https://github.com/wolk4n/winfo/blob/main/img/whois.png">
 
