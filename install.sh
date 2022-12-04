@@ -22,7 +22,7 @@ pip install arg
 pip install requests
 pip install sockets
 pip install DateTime
-pip install whois
+pip install python-whois
 ####
 
 sleep 2
