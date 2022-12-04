@@ -1,4 +1,6 @@
-echo "     __      __.__        _____       
+#!/bin/bash
+
+echo "   __      __.__        _____       
   /  \    /  \__| _____/ ____\____  
   \   \/\/   /  |/    \   __\/  _ \ 
    \        /|  |   |  \  | (  <_> )
@@ -28,3 +30,4 @@ echo "[+] Additional packages succesfully downloaded"
 sleep 2
 echo "[+] Tool ready for use"
 sleep 2
+
