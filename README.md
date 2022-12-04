@@ -4,7 +4,6 @@ Aktif keşif, hedef hakkında sisteme özgü bilgileri toplamak için doğrudan 
 ## Özellikleri
 - Whois<br>
 - HTTP Banner Grab<br>
-- Traceroute<br>
 - Subdomain Finder<br>
 - DNS Lookup<br>
 - Port Scan<br>
