@@ -32,6 +32,6 @@ Aktif keşif, hedef hakkında sisteme özgü bilgileri toplamak için doğrudan 
 ## Aracın içinden görüntüler
 <img src="https://github.com/wolk4n/winfo/blob/main/img/main.png">
 
-<img height="300" width="300" src="https://github.com/wolk4n/winfo/blob/main/img/whois.png">
+<img src="https://github.com/wolk4n/winfo/blob/main/img/whois.png">
 
 <img src="https://github.com/wolk4n/winfo/blob/main/img/subs.png">
