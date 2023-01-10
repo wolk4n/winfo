@@ -53,7 +53,6 @@ menu()
 winfo_all = args['all']
 winfo_whois = args['whois']
 banner = args['banner']
-traceroute = args['traceroute']
 subdomain = args['subdomain']
 dnslookup = args['dnslookup']
 portscan = args['portscan']
